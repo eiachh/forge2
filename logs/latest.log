@@ -1,0 +1,95 @@
+[10:44:13] [main/INFO]: username: srankoadam@freemail.hu
+[10:44:13] [main/INFO]: Extra: []
+[10:44:13] [main/INFO]: Password found, attempting login
+[10:44:14] [main/INFO]: Logging in with username & password
+[10:44:14] [main/INFO]: Login Succesful!
+[10:44:14] [main/INFO]: Running with arguments: [--userProperties, [{"name":"registrationCountry","value":"HU"}], --assetsDir, C:/Users/Eiachh/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --userType, mojang, --accessToken{REDACTED}, --version, 1.12.2, --uuid, b7a3442a782544ae8514f6790e6763f9, --username, adamhu, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:44:15] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:44:15] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:44:15] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:44:15] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:44:15] [main/INFO]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[10:44:15] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_191, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_191\jre
+[10:44:15] [main/ERROR]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[10:44:15] [main/ERROR]: Full: C:\Users\Eiachh\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[10:44:15] [main/ERROR]: Trimmed: c:/users/eiachh/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[10:44:15] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[10:44:15] [main/INFO]: Detected deobfuscated environment, loading log configs for colored console logs.
+[10:44:15] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[10:44:15] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[10:44:15] [main/INFO] [FML]: Searching C:\Users\Eiachh\Desktop\java\forge2\.\mods for mods
+[10:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:44:15] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[10:44:15] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[10:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:44:17] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[10:44:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:44:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:44:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:44:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:44:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:44:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:44:17] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: adamhu
+[10:44:20] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[10:44:21] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_191, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 234019680 bytes (223 MB) / 613416960 bytes (585 MB) up to 2848456704 bytes (2716 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 352.86' Renderer: 'GeForce GTX 750/PCIe/SSE2'
+[10:44:21] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[10:44:21] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:44:21] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[10:44:21] [main/INFO] [FML]: Searching C:\Users\Eiachh\Desktop\java\forge2\.\mods for mods
+[10:44:22] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[10:44:22] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cutsiemod] at CLIENT
+[10:44:22] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cutsiemod] at SERVER
+[10:44:23] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cutsiemod yaas
+[10:44:23] [main/INFO] [FML]: Processing ObjectHolder annotations
+[10:44:23] [main/INFO] [FML]: Found 1178 ObjectHolder annotations
+[10:44:23] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[10:44:23] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[10:44:23] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 420860186 nanos
+[10:44:23] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[10:44:23] [main/INFO] [FML]: Applying holder lookups
+[10:44:23] [main/INFO] [FML]: Holder lookups applied
+[10:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:44:23] [main/INFO] [FML]: Applying holder lookups
+[10:44:23] [main/INFO] [FML]: Holder lookups applied
+[10:44:23] [main/INFO] [FML]: Applying holder lookups
+[10:44:23] [main/INFO] [FML]: Holder lookups applied
+[10:44:23] [main/INFO] [FML]: Applying holder lookups
+[10:44:23] [main/INFO] [FML]: Holder lookups applied
+[10:44:23] [main/INFO] [FML]: Injecting itemstacks
+[10:44:23] [main/INFO] [FML]: Itemstack injection complete
+[10:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[10:44:25] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[10:44:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[10:44:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:44:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[10:44:25] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[10:44:28] [main/INFO] [FML]: Max texture size: 16384
+[10:44:28] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture cutsiemod:textures/blocks/my_first_block.png with size 178x178 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[10:44:28] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[10:44:30] [main/INFO] [FML]: Applying holder lookups
+[10:44:30] [main/INFO] [FML]: Holder lookups applied
+[10:44:30] [main/INFO] [cutsiemod]: Cutsiemod yaassays hi!
+[10:44:30] [main/INFO] [FML]: Injecting itemstacks
+[10:44:30] [main/INFO] [FML]: Itemstack injection complete
+[10:44:30] [main/INFO] [cutsiemod]: RTRTRTRTRTRTTTRT
+[10:44:30] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[10:44:30] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[10:44:39] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[10:44:39] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[10:44:39] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
