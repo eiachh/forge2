@@ -24,6 +24,8 @@ public class ModelRegistryHandler {
         registerModel(TutorialItems.CRAFTING_HEART_ITEM);
         
         registerModel(Item.getItemFromBlock(TutorialBlocks.MY_FIRST_BLOCK));
+        registerModel(Item.getItemFromBlock(TutorialBlocks.GUI_BLOCK));
+
         registerModel(TutorialPickaxe.THE_BAGUETTE_ITEM);
         
         registerModel(TutorialArmor.PEPERIUM_ARMOR);
@@ -31,6 +33,7 @@ public class ModelRegistryHandler {
         registerModel(TutorialArmor.PEPERIUM_FEET);
         registerModel(TutorialArmor.PEPERIUM_LEGS);
         registerModel(Heart_Axe_Init.HEART_HAMMER_AXE);
+
 
     }
  

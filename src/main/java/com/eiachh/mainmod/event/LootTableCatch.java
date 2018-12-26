@@ -1,13 +1,16 @@
 package com.eiachh.mainmod.event;
 
+import net.minecraft.client.tutorial.Tutorial;
 import net.minecraft.entity.EntityLiving;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.item.EntityItem;
 import net.minecraft.entity.passive.EntityCow;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.util.DamageSource;
 import net.minecraft.world.storage.loot.LootTableList;
 import net.minecraftforge.event.LootTableLoadEvent;
@@ -16,6 +19,8 @@ import net.minecraftforge.event.entity.living.LivingDropsEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import  com.eiachh.mainmod.init.TutorialItems;
 import net.minecraftforge.event.entity.living.LivingDeathEvent;
+
+import java.util.List;
 
 public class LootTableCatch {
 
@@ -44,6 +49,8 @@ public class LootTableCatch {
 			}
 		}
 	}
+
+
 
 	/*@SubscribeEvent
 	public  void  catchEntitySpawn(EntityJoinWorldEvent event){
