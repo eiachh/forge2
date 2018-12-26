@@ -8,6 +8,7 @@
 !/COPYING.lesser
 !build.gradle
 !.travis.yml
-!/world/
-!/saves/
-!/bob/
+/world/
+/saves/
+/bob/
+/anyad
